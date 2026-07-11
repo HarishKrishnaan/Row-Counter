@@ -4,17 +4,23 @@ A small counter app for tracking rows and rounds which is useful for anything do
 
 **Live:** https://row-counter-inky.vercel.app/
 
+---
+
 ## Features
 
 - Increase / decrease a running count
 - Save previous counts for reference
 - Simple, distraction-free interface
 
+---
+
 ## Built with
 
 - HTML
 - CSS
 - JavaScript
+
+---
 
 ## Notes
 
